@@ -1,0 +1,21 @@
+.container {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    margin-top: 10px;
+  }
+  
+  #errorMessage {
+    color: red;
+    margin-top: 10px;
+  }
+  
